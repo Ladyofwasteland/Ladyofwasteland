@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ladyofwasteland
 - 👀 I’m interested in web developing
-- 🌱 I’m currently learning python3, HTML, CSS, Django
+- 🌱 I’m currently learning Python3, HTML, CSS, Django, Swift
 - 💞️ I’m looking to collaborate on basic projects for my new portfolio
 - 📫 How to reach me consolieugenia@gmail.com
 
